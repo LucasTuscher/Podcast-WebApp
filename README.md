@@ -17,7 +17,7 @@ Die Hauptordner enthalten den Frontend-Code (`frontend/`), den Backend-Server (`
 
 - Node.js (v18+ empfohlen)  
 - MongoDB lokal oder remote (z. B. Atlas)  
-- Docker & Docker Compose (optional für Deployment)  
+- Docker & Docker Compose (wichtig fürs Deployment) - (Docker wurde sehr viel im Projek genutzt)
 - Git (für Klonen & Versionierung)
 
 ## Mitwirkende
