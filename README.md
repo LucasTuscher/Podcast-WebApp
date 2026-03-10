@@ -1,4 +1,4 @@
-# PodcastWebApp
+# Podcast-WebApp
 
 Ein Fullstack-Projekt für eine Podcast-Plattform, entwickelt mit HTML, CSS, JavaScript, Node.js und MongoDB. Das Projekt ist in ein Frontend (Client mit Webplayer) und ein Backend (Node.js API mit MongoDB-Anbindung) unterteilt und verwendet Docker zur Containerisierung sowie GitLab CI/CD zur Automatisierung.
 
